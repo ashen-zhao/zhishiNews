@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCD8D6DA-57D5-4B74-B2BE-44CC465A87C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iCoderZhiShi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47EFF22E613672E8BE10A232CA4EF4E9603C069B</key>
+		<string>https://github.com/Ashen-Zhao/iOS_Study.git</string>
+		<key>89662de3-318b-4982-978d-5d4e2b1303a2++8865</key>
+		<string>http://svnchina.com/svn/waige/iCoderZhiShi</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iCoderZhiShi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47EFF22E613672E8BE10A232CA4EF4E9603C069B</key>
+		<string>../../../MyProject</string>
+		<key>89662de3-318b-4982-978d-5d4e2b1303a2++8865</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>89662de3-318b-4982-978d-5d4e2b1303a2++8865</key>
+		<string>http://svnchina.com/svn/waige</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svnchina.com/svn/waige/iCoderZhiShi/iCoderZhiShi.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89662de3-318b-4982-978d-5d4e2b1303a2++8865</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89662de3-318b-4982-978d-5d4e2b1303a2++8865</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iCoderZhiShi</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47EFF22E613672E8BE10A232CA4EF4E9603C069B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

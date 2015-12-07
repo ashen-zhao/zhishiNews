@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89662de3-318b-4982-978d-5d4e2b1303a2++8865",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "47EFF22E613672E8BE10A232CA4EF4E9603C069B" : 0,
+    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DCD8D6DA-57D5-4B74-B2BE-44CC465A87C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "47EFF22E613672E8BE10A232CA4EF4E9603C069B" : "MyProject",
+    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : "iCoderZhiShi"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iCoderZhiShi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iCoderZhiShi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ashen-Zhao\/iOS_Study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47EFF22E613672E8BE10A232CA4EF4E9603C069B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/waige",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89662de3-318b-4982-978d-5d4e2b1303a2++8865"
+    }
+  ]
+}
