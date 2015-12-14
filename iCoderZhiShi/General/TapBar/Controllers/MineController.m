@@ -158,7 +158,7 @@ static NSInteger stateCell;
             break;
         }
         case 6: {
-            UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"关于我们" message:@"我们是iCoder团队，专注开发iOS应用\n团队成员：赵阿申、吉冠坤、吕慧鹏\n邮   箱：zhaoashen@gmail.com" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
+            UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"关于我们" message:@"我们是iCoder团队，专注开发iOS应用\n团队成员：赵阿申 \n邮   箱：zhaoashen@gmail.com" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
             [alert show];
             [alert release];
             break;

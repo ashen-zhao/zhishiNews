@@ -1,18 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89662de3-318b-4982-978d-5d4e2b1303a2++8865",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "52AC00D40F4F4693F7A847A48F981DB18745136E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : {
+    "52AC00D40F4F4693F7A847A48F981DB18745136E" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "47EFF22E613672E8BE10A232CA4EF4E9603C069B" : 0,
-    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : 0
+    "52AC00D40F4F4693F7A847A48F981DB18745136E" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DCD8D6DA-57D5-4B74-B2BE-44CC465A87C6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "47EFF22E613672E8BE10A232CA4EF4E9603C069B" : "MyProject",
-    "89662de3-318b-4982-978d-5d4e2b1303a2++8865" : "iCoderZhiShi"
+    "52AC00D40F4F4693F7A847A48F981DB18745136E" : "iCoderZhiShi"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "iCoderZhiShi",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -26,7 +26,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/waige",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89662de3-318b-4982-978d-5d4e2b1303a2++8865"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AC00D40F4F4693F7A847A48F981DB18745136E"
     }
   ]
 }

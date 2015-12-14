@@ -14,7 +14,6 @@
 + (void)JSONDataWithUrl:(NSString *)url success:(void (^)(id json))success fail:(void (^)())fail {
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
     [manager GET:url parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
-        NSLog(@"%@", responseObject);
             if (responseObject) {
                 if (success) {
                     success(responseObject);
