@@ -206,6 +206,7 @@
 		8CE3AA1A1C1EC71A0088E5EC /* screen3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CE3AA151C1EC71A0088E5EC /* screen3.png */; };
 		8CE3AA1B1C1EC71A0088E5EC /* screen4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CE3AA161C1EC71A0088E5EC /* screen4.png */; };
 		8CE3AA1C1C1EC71A0088E5EC /* screen5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CE3AA171C1EC71A0088E5EC /* screen5.png */; };
+		8CE3AA1E1C1EC99C0088E5EC /* screen6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CE3AA1D1C1EC99C0088E5EC /* screen6.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -528,6 +529,7 @@
 		8CE3AA151C1EC71A0088E5EC /* screen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen3.png; sourceTree = "<group>"; };
 		8CE3AA161C1EC71A0088E5EC /* screen4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen4.png; sourceTree = "<group>"; };
 		8CE3AA171C1EC71A0088E5EC /* screen5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen5.png; sourceTree = "<group>"; };
+		8CE3AA1D1C1EC99C0088E5EC /* screen6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen6.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1299,6 +1301,7 @@
 				8CE3AA151C1EC71A0088E5EC /* screen3.png */,
 				8CE3AA161C1EC71A0088E5EC /* screen4.png */,
 				8CE3AA171C1EC71A0088E5EC /* screen5.png */,
+				8CE3AA1D1C1EC99C0088E5EC /* screen6.png */,
 			);
 			path = screenshots;
 			sourceTree = "<group>";
@@ -1398,6 +1401,7 @@
 				341168681B2B01A6003DA209 /* MyselfList.plist in Resources */,
 				3411685D1B2AFF25003DA209 /* icon_me_active@2x.png in Resources */,
 				34116A041B2C6857003DA209 /* logo@2x.png in Resources */,
+				8CE3AA1E1C1EC99C0088E5EC /* screen6.png in Resources */,
 				8CE3AA181C1EC71A0088E5EC /* screen1.png in Resources */,
 				3411686A1B2B0514003DA209 /* cell_tag_photo@2x.png in Resources */,
 				34CF977F1B26CB8200CBDBA6 /* 好友@2x.png in Resources */,
